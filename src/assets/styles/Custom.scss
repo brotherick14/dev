@@ -1,0 +1,10 @@
+$color-fondo: rgb(80, 206, 80);
+$texto-primario: white;
+body {
+    background-color: $color-fondo;
+}
+
+.container {
+    color:$texto-primario;
+}
+
